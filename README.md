@@ -20,7 +20,7 @@ In this project, we'll work with a corpus of item descriptions from The North Fa
 
 | Name | Description |
 |:-|:-|
-| <ins>_00_project.ipynb_</ins> | Preprocessing, TF-IDF, DBScan and LSA |
+| [_00_project.ipynb_](./notebooks/00_project.ipynb) | Preprocessing, TF-IDF, DBScan and LSA |
 
 ## Author
 
